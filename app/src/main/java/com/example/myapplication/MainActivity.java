@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 Intent m_Intent = new Intent(MainActivity.this,NewActivity.class);
-                m_Intent.putExtra(AppConstants.INTENT_MESSAGE_KEY,"Mensaje enviado desde MainActivity");
+                m_Intent.putExtra(AppConstants.INTENT_MESSAGE_KEY,"prueba");
                 startActivity(m_Intent);
             }
         });
