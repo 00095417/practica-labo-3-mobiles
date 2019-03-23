@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="name_text">Nonbre</string>
+    <string name="email_text">Email</string>
+    <string name="pass_text">Password</string>
+    <string name="gender_text">Genero</string>
+    <string name="submit_text">Submit</string>
+    <string name="share_text">Share</string>
 </resources>
